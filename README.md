@@ -2,7 +2,7 @@
 
 * Using Raspberry pi to display up to arbitrary max7219.
 * To use this code file you need to install the WiringPi library
-You need to open terminal and type: sudo apt-get install wiringpi
+You need to open terminal and type: '''sudo apt-get install wiringpi'''
 * Connect Rasp to Max7219
   - VCC   3.3V        17 physical
   - GND   0v          20
